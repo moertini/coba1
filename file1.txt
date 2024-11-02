@@ -1,2 +1,3 @@
 Isi file1
 Tambah 1 baris di remote repo
+tambahn di lokal

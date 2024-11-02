@@ -1,2 +1,3 @@
 isi file 2
 tambah 1 baris di remote
+tambahan di lokal
